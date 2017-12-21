@@ -1,0 +1,2 @@
+byte_t *user_data in cache.h
+blk_access_fn in cache_access cache.c 

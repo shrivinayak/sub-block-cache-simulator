@@ -1,0 +1,12 @@
+where does the cache store data?
+how does it store tags? how does it store blocks?
+how does the cache structure vary with associativity? (set-size) 
+how does the cache structure vary with block size ?
+
+what functions help in finding a block in the cache? 
+where is the cache miss accounted?
+where is the dirty flag?
+where is the valid bit?
+
+how is the cache replaced? 
+
